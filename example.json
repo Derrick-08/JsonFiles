@@ -1,6 +1,14 @@
-{
-    "name": "bread",
-    "family": "vines",
-    "age": 1,
-    "weight": 2.14
-}
+[
+    {
+        "name": "bread",
+        "family": "vines",
+        "age": 1,
+        "weight": 3.14
+    },
+    {
+        "name": "rice",
+        "family": "vines",
+        "age": 4,
+        "weight": 2.72
+    }
+]
